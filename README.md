@@ -8,16 +8,15 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my portfolio for Telling Stories with Data! I am a Public Policy and Management - Data Analytics student expected to graduate May 2027. I am passionate about connecting data with people and policy! 
+This is my portfolio for Telling Stories with Data!
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+My name is Elizabeth and I am from Missouri! I am a Public Policy and Management - Data Analytics student expected to graduate May 2027. I am passionate about connecting data with people and policy! After graduation, I'd like to work in research for a think tank or work for a local government or nonprofit. I want to do something that helps people through progressive solutions. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
 1. How to sell a story using data
-2. How to give useful constructive criticism around data visualizations
+2. How to give useful constructive criticism about data visualizations
 3. How to identify information that is not truthful
 
 # Portfolio
