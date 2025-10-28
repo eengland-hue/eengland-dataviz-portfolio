@@ -8,7 +8,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my portfolio for Telling Stories with Data! I am a Public Policy and Management - Data Analytics student, and I am passionate about connecting data with people and policy!
+This is my portfolio for Telling Stories with Data! I am a Public Policy and Management - Data Analytics student expected to graduate May 2027. I am passionate about connecting data with people and policy! 
 
 # About me
 Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
