@@ -43,6 +43,7 @@ The three viewers seemed to agree that my decision to group the bars by region w
 
 ## Step five: build the solution
 [Updated Data Viz Critique.pdf](https://github.com/user-attachments/files/23512378/Updated.Data.Viz.Critique.pdf)
+
 For my final solution, I corrected each country’s regional classification to accurately reflect their geographic regions. I also refined the visualization by displaying only the top twenty and bottom twenty countries, highlighting those with the happiest and least happy citizens.
 
 ## References
