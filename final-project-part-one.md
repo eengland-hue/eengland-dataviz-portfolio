@@ -21,9 +21,9 @@ Text here...
 # The data
 My dataset is from Pew Research Center. I plan to use Tableau and Excel to clean the data, and Tableau to display relationships between variables. My survey data is nominal categorical, so I will create new calculated fields to present each respondent's answer.
 
-Name: Pew Research Center
-URL: https://www.pewresearch.org/dataset/american-trends-panel-wave-144/
-Description: I found a dataset by Pew Research Center that focuses on the relationship between social media and political discourse. It is a survey containing over 10,000 respondents. There are a variety of questions given throughout the survey ranging from social media use, to news consumption on social media, to political discourse and polarization on social media. 
+- Name: Pew Research Center
+- URL: https://www.pewresearch.org/dataset/american-trends-panel-wave-144/-
+- Description: I found a dataset by Pew Research Center that focuses on the relationship between social media and political discourse. It is a survey containing over 10,000 respondents. There are a variety of questions given throughout the survey ranging from social media use, to news consumption on social media, to political discourse and polarization on social media. 
 
 # Method and medium
 I plan on completing my final project through Tableau and Shorthand. I will create the data visualizations on Tableau and my final presentation on Shorthand. 
