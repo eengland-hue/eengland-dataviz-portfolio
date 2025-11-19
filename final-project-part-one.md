@@ -8,7 +8,7 @@ I am going to first help the viewer understand the true impact that social media
 
 For the final portion of my project, I am going to do some outside research on solutions to this growing issue. While social media produces a multitude of positive benefits to our society, there are drawbacks to be considered. Nowadays, many social media platforms are built on algorithims that seek to increase viewer engagement, no matter how truthful the story is. Readers should make more conscious decisions when they read news articles that are produced, especially on social media platforms to prevent the spread of misinformation.
 
-All in all, the goal of my project is to inform the reader of social media's impact on the mdoern United States political climate and encourage them to advocate for more and better platforms that support democracy. I believe this is a pertinent topic to the reader, as the reader should want to lessen the political polarization in their life to foster meaningful and inclusive conversation.
+All in all, the goal of my project is to inform the reader of social media's impact on the modern United States political climate and encourage them to advocate for better platforms that support democracy and critically consume information. I believe this is a pertinent topic to the reader, as the reader should want to lessen the political polarization in their life to foster meaningful and inclusive conversation.
 
 ## Initial sketches
 <img width="521" height="855" alt="Screenshot 2025-11-17 171413" src="https://github.com/user-attachments/assets/ad170f7b-a779-41cc-a19f-e8fc8053dc3a" /> 
