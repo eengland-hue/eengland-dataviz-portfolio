@@ -3,7 +3,29 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+Section 1: A few examples of the benefits of social media. 
+There is a high chance that my audience is a social media user of at least one of the platforms discussed in the project. I want to begin this project on a positive note to intrique the viewer.
+
+Section 2: Political extremism and social media
+This is where I will do some outside research about political extremism and its relation to social media. I will also describe my data.
+
+Section 3: Distribution of users on each platform
+This section will help viewers understand which platform is the most influential according to the survey data.
+
+Section 3: Users' reliance on social media for major news content
+This visualization will depict the number of users that depend on each social media platform for a major news source.
+
+Section 4: Users' opinion on each social media platforms' influence on news content. 
+I think this section is important to show if users are aware of the impact of algorithms on news content. Could platforms have control of fake news and extreme political discourse? If possible, I would like to find some data on each social media platform and how much fake news is spread.
+
+Section 5: Democracy and social media
+This section will show how many people believe social media algorithms affect American democracy and have any influence on political polarization.
+
+Section 6: The importance of media literacy
+This section will require some outside research about media literacy and the importance of verifying and diversifying sources.
+
+Section 7: Call to action - critically examine all information you consume on social media, and seek out outside resources to broaden ideas.
+This section will include books and websites that help viewers find other methods of consuming information. I hope this section encourages viewers to do their own research on important topics rather than taking things at face value.
 
 # User research 
 
@@ -14,41 +36,39 @@ My target audience for this project is the general public and those that use soc
 The goal of my research and interview process is to decide what my call to action is and any missing data that could fill in gaps for viewers. 
 
 Goal 1: Decide what my call to action is.
-Question: What questions does this project lead you to ask? Are you more interested in learning about reliable and truthful news sources or how to combat these platforms' polariizing algorithms? 
+Question: What questions does this project lead you to ask? Are you more interested in learning more about reliable and truthful news sources or how to combat these platforms' polariizing algorithms? 
 
-Goal 2: Find other potential areas that can be addressed in this project to fill in gaps.
+Goal 2: Find potential gaps that can be addressed in this project.
 Question: Are any of the visualizations confusing or could they answer better questions relevant to the topic of the project?
 
 Goal 3: Develop a story narrative for my target audience.
-Question 3: Are there places that this can be a more effective story narrative for my audience?
+Question 3: Are there places where this can be a more effective story narrative?
 
 ## Interview findings
 QUESTIONS
 Question 1:  What questions does this project lead you to ask? Are you more interested in learning about how to critically consumer news or how to combat these platforms' polariizing algorithms? 
 Question 2: Are any of the visualizations confusing or could they answer better questions relevant to the topic of the project?
-Question 3: Are there any gaps or places that will make this a more effective story narrative for my audience?
+Question 3: Are there any gaps or places that will make this a more effective story narrative?
 
 INTERVIEWS
 Interview 1, Entry Data Analyst 22 Female
 Question 1 Answer: Noticed that different users felt like the platform didn't support democracy. Curious about if Instagram is legitimately better for democracy and if Facebook users are more likely to fall into an echochamber. Raises questions about media literacy and alleviating illiteracy on social media.
 Question 2 Answer: The second graphic was less memorable. Change the presentation style of the graphic. The data itself was interesting but some edits can be done to make it more engaging.
-Question 3 Answer: Showing some information about each social media's algorithms instead of just survey data. Find data on how sensitive each algorithm is to user action. 
+Question 3 Answer: Showing some information about each social media's algorithms instead of just survey data. Find data on how sensitive each algorithm is to user actions. 
 
 Interview 2, Graduate Student 23 Female
-Question 1 Answer: Encourage people to do more outside research and think critically
-Question 2 Answer: Adding the total count of people that took the survey
-Question 3 Answer: Providing the total amount of people that took the story
+Question 1 Answer: Encourage people to do more outside research and think critically when consuming information. This interviewee thought that the call to action should be more focused on user action that the platforms' to be more effective.
+Question 2 Answer: Adding the total count of people that took the survey understand the scope of the data.
+Question 3 Answer: If it's possible, some data on the rise of political extremism overtime since the rise of social media.
 
 Interview 3, Graduate Student 23 Female
-Question 1 Answer: Go to news sources outside of social media
-Question 2 Answer: Visualizations were visually easy to look at
-Question 3 Answer: Source of the data and the age range of the data
+Question 1 Answer: Go to news sources outside of social media, especially since social media can impact what content you consume. ONLY using social media will lead to people neglecting current world events and developing a false sense of reality.
+Question 2 Answer: Visualizations were visually easy to look at and understand. 
+Question 3 Answer: Source of the data and the age range of the data would be interesting to know since some of the platforms that had the most user engagement were surprising.
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+My call to action for this project will be to encourage social media users to critically think about the information they consume and check the source of each article before sharing it. Due to the sensitivity of algorithms misinformation can spread rapidly. This project will display the distrust between users and social media platforms, and will hopefully encourage users to question the content they are exposed to. I also plan to change visualizations, specifically the second one to be more memorable and engaging to the audience. I am also going to seek out additional resources that help viewers understand the power of social media algorithms and the importance of having strong media literacy in today's climate. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
