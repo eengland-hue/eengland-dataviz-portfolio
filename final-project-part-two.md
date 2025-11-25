@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 https://preview.shorthand.com/FOrOg5n8x92mf8vL
-Section 1: A few examples of the benefits of social media. 
+>Section 1: A few examples of the benefits of social media. 
 >There is a high chance that my audience is a social media user of at least one of the platforms discussed in the project. I want to begin this project on a positive note to intrique the viewer.
 
 Section 2: Political extremism and social media
