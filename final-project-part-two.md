@@ -1,6 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
+https://preview.shorthand.com/FOrOg5n8x92mf8vL
 Section 1: A few examples of the benefits of social media. 
 >There is a high chance that my audience is a social media user of at least one of the platforms discussed in the project. I want to begin this project on a positive note to intrique the viewer.
 
