@@ -2,34 +2,26 @@
 
 # Wireframes / storyboards
 https://preview.shorthand.com/FOrOg5n8x92mf8vL
->Section 1: A few examples of the benefits of social media. 
->There is a high chance that my audience is a social media user of at least one of the platforms discussed in the project. I want to begin this project on a positive note to intrique the viewer.
+>Section 1 - Introduction
+>
+>Political extremism and social media: This is where I will do some outside research about political extremism and its relation to social media.
 
-Section 2: Political extremism and social media
->This is where I will do some outside research about political extremism and its relation to social media. I will also describe my data.
+>Section 2 - The Data
+>
+> This section will feature several visualizations explaining the number of users on each platform and their experiences with news consumption and political discourse. My visualizations will explain the overall number of users on each platform, how often they get news from the platform, the platform's news accuracy and algorithmic influence, and the platform's support of democracy.
 
-Section 3: Distribution of users on each platform
->This section will help viewers understand which platform is the most influential according to the survey data.
+>Section 3 - Escaping the algorithm
+>
+>This section will require some outside research about media literacy and escaping social media addiction.
 
-Section 4: Users' reliance on social media for major news content
->This visualization will depict the number of users that depend on each social media platform for a major news source.
-
-Section 5: Users' opinion on each social media platforms' influence on news content. 
->I think this section is important to show if users are aware of the impact of algorithms on news content. Could platforms have control of fake news and extreme political discourse? If possible, I would like to find some data on each social media platform and how much fake news is spread.
-
-Section 6: Democracy and social media
->This section will show how many people believe social media algorithms affect American democracy and have any influence on political polarization.
-
-Section 7: The importance of media literacy
->This section will require some outside research about media literacy and the importance of verifying and diversifying sources.
-
-Section 8: Call to action - critically examine all information you consume on social media, and seek out outside resources to broaden ideas.
->This section will include books and websites that help viewers find other methods of consuming information. I hope this section encourages viewers to do their own research on important topics rather than taking things at face value.
+>Section 4 - Call to action
+>
+>Practical ways to break free of the echo chamber of negative thoughts related to social media.
 
 # User research 
 
 ## Target audience
-My target audience for this project is the general public and those that use social media. The goal of this project is to inform the reader of social media's impact on news consumption, and encourage them to make more intentional choices when consuming information. 
+My target audience for this project is people that frequently find themselves in a never-ending loop consuming media. While social media is beneficial in many ways to society, it also creates major drawbacks to those that become addicted to social media and develop toxic thought patterns.
 
 ## Interview script
 The goal of my research and interview process is to decide what my call to action is and any missing data that could fill in gaps for viewers. 
@@ -82,13 +74,8 @@ Interview 3, Graduate Student 23 Female
 |Two out of three of my interviewees did not remember the content of the second visualization I had drafted.| Reevaluate the visualization type and colors to make the graphic more memorable and impactful. I am also going to change the data type for the visualization from counts to percentages.|
 |This projcet led my interveiwees to question more, specifically about media literacy and social media algorithms.|                                                 I am going to do some more outside research and seek out additional resources that help viewers understand the power of social media algorithms and the importance of having strong media literacy in today's climate.|                                          
 
-
-Text here!
-
-
 ## References
-_List any references you used here._
+No outside references were used in the completion of this section.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+No GenAI was used in the completion of this assignment.
