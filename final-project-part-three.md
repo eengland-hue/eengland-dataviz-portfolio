@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-https://carnegiemellon.shorthandstories.com/escaping-the-neverending-news-silo/index.html
+https://carnegiemellon.shorthandstories.com/escaping-the-neverending-news-silo/index.html 
 
 # Changes made since Part II
 For my final story, I decided to transition my focus and call to action from social media platforms' role in our political sphere to how these platforms affect users' mental health. I chose to narrow down the issue to users' ability to decipher between real and fake news, and platforms' natural tendency to isolate them from diverse perspectives. I think that this shift created a more cohesive story. I also decided for my calls to action to be mental health focused, so I not only included a way for users to seek out various news sources, but other methods to protect their mental health from addictive algorithms.
