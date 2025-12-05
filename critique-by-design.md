@@ -30,7 +30,7 @@ Questions I asked my Interviewees:
 Results: 
 
 Interview 1:
-- Interviewee 1 thought the visualization did a good job displaying the story it was trying to tell. It was very clear and made great use of color. The color made it visually appealing and led the interviewee to ask more questions. The interviewee thought that there were too many bar on the bar chart. They suggested to narrow down to the top twenty countries, or display both the top twenty and bottom twenty.
+- Interviewee 1 thought the visualization did a good job displaying the story it was trying to tell. It was very clear and made great use of color. The color made it visually appealing and led the interviewee to ask more questions. The interviewee thought that there were too many bars on the bar chart. They suggested to narrow down to the top twenty countries, or display both the top twenty and bottom twenty.
 
 Interview 2:
 - Interviewee 2 thought the visualization was interesting, especially since they are excited about anything that deals with international data and social policy. They thought that the regional colors were a great touch. However, they pointed out that many of the countries were incorrectly labeled by region. Aside from this issue, they thought the visualization was effective. I followed up with the first interviewee's concern, and asked if I should find a way to delete some of the bars. The interviewee thought that the visualization was interesting and easy to interpret regardless of the number of bars. 
