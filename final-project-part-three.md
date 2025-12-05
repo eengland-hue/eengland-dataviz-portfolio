@@ -1,36 +1,18 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+https://carnegiemellon.shorthandstories.com/escaping-the-neverending-news-silo/index.html
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+For my final story, I decided to transition my focus and call to action from social media platforms' role in our political sphere to how these platforms affect users' mental health. I chose to narrow down the issue to users' ability to decipher between real and fake news, and platforms' natural tendency to isolate them from diverse perspectives. I think that this shift created a more cohesive story. I also decided for my calls to action to be mental health focused, so I not only included a way for users to seek out various news sources, but other methods to protect their mental health from addictive algorithms.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+For my audience, I decided to narrow it down to social media users that are vulnerable to falling into echo chambers. My statistic, "1 in 3 users have felt worn out by the news they see on social media," was a compelling fact that I found through my data analysis. I think this was a great way to introduce my story amd shift the focus toward user mental health and away from platform algorithms. Since I shifted toward mental health, I removed a few visualizations such as platforms and their influence on democracy. I did not find this visualization necessary, and it made it more difficult to tell a cohesive story. I think one of my main issues while developing this story was developing the story around the visualizations, when I should have been creating visualizations to tell a story.
 
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+For my final design, I wanted to keep the theme dark with bright features that are similar to the platforms' signature colors. For example, most of my color pallette was red, blue, and purple since users associate these colors with  TikTok, Facebook, and Instagram. I also took advantage of Shorthand's media and scrollmation features. I used videos from Pexels to engage the reader and bring some dimension into the story.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
-
-Text here!
+No Generative AI was used for the completion of this assignment.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
-
+> In the beginning I had trouble flushing out a solid story. After looking at other stories, I realized I was trying to tell a story with my visualizations rather than using my visualizations to tell a story. I was too focused on putting more data in the story instead of only adding the appropriate data that made sense. If I could do this story again, I would like to find a dataset that investigates social media's impact overtime. I think this would tell a more thorough story, and flush out the message.
