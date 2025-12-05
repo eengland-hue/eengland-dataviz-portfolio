@@ -11,7 +11,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my portfolio for Telling Stories with Data!
 
 # About me
-My name is Elizabeth and I am from Missouri! I am a Public Policy and Management - Data Analytics student expected to graduate May 2027. I am passionate about connecting data with people and policy! After graduation, I'd like to work in research for a think tank or work for a local government or nonprofit. I want to do something that helps people through progressive solutions. 
+My name is Elizabeth and I am from Missouri. I am a Public Policy and Management - Data Analytics student expected to graduate May 2027. I am passionate about connecting data with people and policy. After graduation, I'd like to work in research for a think tank or work for a local government or nonprofit. I want to do something that helps people through progressive solutions. 
 
 # What I hope to learn
 
